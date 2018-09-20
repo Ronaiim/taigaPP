@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: taiga-contrib-fan
+Version: 0.0.1
+Summary: The Taiga plugin for list projects which user is fan
+Home-page: https://github.com/leblanc-simon
+Author: Simon Leblanc
+Author-email: contact@leblanc-simon.eu
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: taiga,project,fan
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP

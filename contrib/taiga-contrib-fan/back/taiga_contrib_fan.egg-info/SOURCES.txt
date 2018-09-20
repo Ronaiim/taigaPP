@@ -1,0 +1,7 @@
+taiga_contrib_fan/__init__.py
+taiga_contrib_fan/api.py
+taiga_contrib_fan/apps.py
+taiga_contrib_fan.egg-info/PKG-INFO
+taiga_contrib_fan.egg-info/SOURCES.txt
+taiga_contrib_fan.egg-info/dependency_links.txt
+taiga_contrib_fan.egg-info/top_level.txt
